@@ -2,6 +2,8 @@
 
 
 
+![COVID Görüntü İşleme Arayüzü](https://github.com/UgurrOnderKarapunar/Covid-Goruntu-Isleme/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20230838.png?raw=true)
+
 
 
 
